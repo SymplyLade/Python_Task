@@ -296,9 +296,7 @@
 # - Collects extra positional arguments into a tuple.
 
 # - Think of it like packing extra clothes into a bag.
-
-
-# def add_numbers(*args):
+#def add_numbers(*args):
 #     total = 0
 #     for num in args:
 #         total += num
